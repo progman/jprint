@@ -1,5 +1,7 @@
 Json pretty print
 
 
-1) Get this: git clone https://github.com/progman/jprint
-2) Enjoy!
+1) Get this : git clone https://github.com/progman/jprint
+2) Set this : git submodule update --init
+3) Use this : jprint.sh test.json
+4) Enjoy!
