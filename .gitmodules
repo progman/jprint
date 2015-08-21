@@ -1,0 +1,3 @@
+[submodule "submodule/libcore.js"]
+	path = submodule/libcore.js
+	url = https://github.com/progman/libcore.js.git
