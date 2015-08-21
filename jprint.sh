@@ -7,6 +7,7 @@ then
 	SCRIPT_PATH=$(readlink ${SCRIPT_PATH});
 fi
 
+export DIR=${PWD};
 cd $(dirname ${SCRIPT_PATH});
 
 export FILE="${1}";
